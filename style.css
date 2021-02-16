@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/images/pexels-giftpunditscom-1303098.jpg");
+    background-image: url("../images/pexels-steve-johnson-1545505.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -20,6 +20,7 @@ h1 {
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
+    color: beige;
 }
 
 .countdown-container {
@@ -33,12 +34,15 @@ h1 {
     font-size: 6rem;
     line-height: 1;
     margin: 1rem 2rem;
+    color: beige;
 }
 
 .countdown-el {
     text-align: center;
+    color: beige;
 }
 
 .countdown-el span {
     font-size: 1.3rem;
+    color: beige;
 }
